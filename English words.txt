@@ -1,3 +1,4 @@
 pronoun - местоимение
 sentence - предложение
 applicant - заявитель или истец, foreign applicant – иностранный заявитель
+accountant - бухгалтер, chief accountant – главный бухгалтер
