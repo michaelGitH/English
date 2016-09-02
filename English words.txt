@@ -20,5 +20,5 @@ I advise clients on company services -      я консультирую клие
 Invoke -                  вызвать. Invoking print function - Вызов функции печати.
 vessel -                  судно, корабль
 U.S. Pacific Coast -      Американское Тихоокеанское побережье
-mean, means -           значит, означать.
+mean, means -             значит, означать.
 goal -                    цель, primary goal - основная задача.
