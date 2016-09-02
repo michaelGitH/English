@@ -13,8 +13,8 @@ activity -                деятельность.
 rest -                    отдых.
 enroll -                  записаться, поступить. to enroll in courses - записаться на курсы.
 schedule -                график.
-from 8 am to 5 pm        с 8 до 5 вечера
-counseling -              консултировать
+from 8 am to 5 pm         с 8 до 5 вечера
+counseling, advise -      консултировать
 responsibility -          обязанность
 I advise clients on company services -      я консультирую клиентов по услугам компании
 Invoke -                  вызвать. Invoking print function - Вызов функции печати.
