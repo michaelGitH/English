@@ -3,22 +3,22 @@ sentence -                 предложение
 applicant -                заявитель или истец, foreign applicant – иностранный заявитель
 accountant -               бухгалтер, chief accountant – главный бухгалтер
 negotiations -             переговоры
-male - мужчина, femail - женщина
+male -                     мужчина, femail - женщина
 that refer to ( people ) - что относится к . the different words that refer to people - разные слова которые относятся к людям.
-introduce - ввести, познакомиться. introduce the concept – ввести понятие. how to introduce people? - как знакомиться с людьми?
-CEO (англ. Chief Executive Officer — главный исполнительный директор; брит. англ. managing director (MD))
-sound familiar - знакомо. Your name sound familiar - Твое имя знакомо
-study - Исследование. there is a study in Britain. - Это исследования в Англии.
-activity - деятельность. 
-rest - отдых.
-enroll - записаться, поступить. to enroll in courses - записаться на курсы.
-schedule - график.
-from 8.00 to 17.00 с 8 до 5 вечера
-counseling - консултировать
-responsibility - обязанность
-I advise clients on company services - я консультирую клиентов по услугам компании
-Invoke - вызвать. Invoking print function - Вызов функции печати.
-vessel - судно, корабль
-U.S. Pacific Coast - Американское Тихоокеанское побережье
-means, meanss - значит, означать.
-goal - цель, primary goal - основная задача.
+introduce -           ввести, познакомиться. introduce the concept – ввести понятие. how to introduce people? - как знакомиться с людьми?
+CEO (англ. Chief Executive Officer) — главный исполнительный директор; брит. англ. managing director (MD))
+sound familiar -           знакомо. Your name sound familiar - Твое имя знакомо
+study -                   Исследование. there is a study in Britain. - Это исследования в Англии.
+activity -                деятельность. 
+rest -                    отдых.
+enroll -                  записаться, поступить. to enroll in courses - записаться на курсы.
+schedule -                график.
+from 8.00 to 17.00        с 8 до 5 вечера
+counseling -              консултировать
+responsibility -          обязанность
+I advise clients on company services -      я консультирую клиентов по услугам компании
+Invoke -                  вызвать. Invoking print function - Вызов функции печати.
+vessel -                  судно, корабль
+U.S. Pacific Coast -      Американское Тихоокеанское побережье
+means, meanss -           значит, означать.
+goal -                    цель, primary goal - основная задача.
