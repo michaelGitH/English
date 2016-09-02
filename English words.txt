@@ -1,8 +1,8 @@
-pronoun - местоимение
-sentence - предложение
-applicant - заявитель или истец, foreign applicant – иностранный заявитель
-accountant - бухгалтер, chief accountant – главный бухгалтер
-negotiations - переговоры
+pronoun -                  местоимение
+sentence -                 предложение
+applicant -                заявитель или истец, foreign applicant – иностранный заявитель
+accountant -               бухгалтер, chief accountant – главный бухгалтер
+negotiations -             переговоры
 male - мужчина, femail - женщина
 that refer to ( people ) - что относится к . the different words that refer to people - разные слова которые относятся к людям.
 introduce - ввести, познакомиться. introduce the concept – ввести понятие. how to introduce people? - как знакомиться с людьми?
