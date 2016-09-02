@@ -17,3 +17,4 @@ from 8.00 to 17.00 с 8 до 5 вечера
 counseling - консултировать
 responsibility - обязанность
 I advise clients on company services - я консультирую клиентов по услугам компании
+Invoke - вызвать. Invoking print function - Вызов функции печати.
