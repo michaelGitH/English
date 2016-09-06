@@ -1,10 +1,10 @@
-pronoun -                  местоимение
+﻿pronoun -                  местоимение
 sentence -                 предложение
 applicant -                заявитель или истец, foreign applicant – иностранный заявитель
 accountant -               бухгалтер, chief accountant – главный бухгалтер
 negotiations -             переговоры
 male -                     мужчина, femail - женщина
-that refer to ( people ) - что относится к . the different words that refer to people - разные слова которые относятся к людям.
+that refer to ( people ) - что ссылается на . the different words that refer to people - разные слова которые касаются людей.
 introduce -           ввести, познакомиться. introduce the concept – ввести понятие. how to introduce people? - как знакомиться с людьми?
 CEO (англ. Chief Executive Officer) — главный исполнительный директор; брит. англ. managing director (MD))
 sound familiar -           знакомо. Your name sound familiar - Твое имя знакомо
@@ -15,10 +15,38 @@ enroll -                  записаться, поступить. to enroll in
 schedule -                график.
 from 8 am to 5 pm         с 8 до 5 вечера
 counseling, advise -      консултировать
-responsibility -          обязанность
+responsibility -          ответтвенность
 I advise clients on company services -      я консультирую клиентов по услугам компании
 Invoke -                  вызвать. Invoking print function - Вызов функции печати.
 vessel -                  судно, корабль
 U.S. Pacific Coast -      Американское Тихоокеанское побережье
 mean, means -             значит, означать.
 goal -                    цель, primary goal - основная задача.
+be able -                 быть может, в состоянии. Will also be able-Также будет, также смогу
+participate -             участие( в переговорах ).
+
+to achieve -              Достигать
+diligent/diligently       Старательный/Старательно
+draw up                   составить.
+Currently                 Сейчас, в настоящее время.
+check                     проверка, контроль
+avoid                     избегать
+expensive                 дорогой
+charge                    плата, сбор
+viewer                    зритель
+carry                     нести, перенести
+count                     считать, подсчитывать
+amount                    сумма, количество
+statement                 утверждение, заявление
+greet                     приветствовать
+quarter                   квартал, четверть
+solar                     солнечный
+cause                     причина, повод, мотив
+kept(keep)
+its                       его, свой
+agreement, arrangement    соглашения
+heat                      тепло
+order                     заказ, порядок
+lessen                    уменьшать
+
+
