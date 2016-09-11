@@ -86,7 +86,10 @@ Google заключил догово на покупку 842 мегават ен
  
  Переносить болезни
  
- Порядковый номер
+ Порядковые числа.
+ 
+ Переставить мебель.
+ Переставить буквы, чтобы сформировать правильный ответ.
 ------------------------------------------------------------
 
 "I" is personal pronoun. It is the second sentence.
@@ -168,4 +171,7 @@ Some companies want to use clean energy in order
  carry the disease( illness )
  
  ordinal number
+ 
+ rearrange the furniture
+ rearrange the letters to form the correct answer
 --------------------------------------------------------
