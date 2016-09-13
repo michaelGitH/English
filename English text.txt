@@ -1,4 +1,4 @@
-"Я" - личное местоимение. Это второе предложение.
+﻿"Я" - личное местоимение. Это второе предложение.
 
 Я хочу представиться.
 
@@ -96,6 +96,8 @@ Google заключил догово на покупку 842 мегават ен
  После лихорадки Эбола, Всемирный банк создает страховой план пандемии
  
  2 Новых смартфона Леново с новыми функциями
+
+В неделе 5 будних дней.
 ------------------------------------------------------------
 
 "I" is personal pronoun. It is the second sentence.
@@ -186,4 +188,6 @@ Some companies want to use clean energy in order
 After Ebola, World Bank creates pandemic insurance plan
 
 Lenovo's two new smartphones with new features
+
+There are five weekdays in a week.
 --------------------------------------------------------
