@@ -100,6 +100,14 @@ Google заключил догово на покупку 842 мегават ен
 В неделе 5 будних дней.
 
 пропущенное слово в предложении.
+
+введите ответ.
+
+Какова правильная последовательность дней недели?
+
+Как приветствовать людей по особым случаям?
+
+поздравляю с повышением.
 ------------------------------------------------------------
 
 "I" is personal pronoun. It is the second sentence.
@@ -194,4 +202,25 @@ Lenovo's two new smartphones with new features
 There are five weekdays in a week.
 
 the missing word in the sentence.
+
+type your answer.
+
+What is the correct sequence of days of the week?
+
+Today:
+Today is Monday.
+It is Monday today.
+What day is today?
+Tomorrow:
+Tomorrow is Tuesday.
+It is Tuesday tomorrow.
+What day is tomorrow?
+Yesterday:
+Yesterday was Sunday.
+It was Sunday yesterday.
+What day was yesterday?
+
+How to greet people on special occasions?
+
+congratulations on your promotion.
 --------------------------------------------------------
